@@ -1,3 +1,9 @@
+/* Future project add-ons?
+1. Add a function to convert miles to kilometers (the reverse of convertToMiles() )
+
+*/
+
+
 let convertToMiles = () => {
   let output = document.querySelector("#output");
   let input = document.getElementById("kiloInput")
